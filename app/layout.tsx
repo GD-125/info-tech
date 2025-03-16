@@ -12,7 +12,6 @@ export const metadata: Metadata = {
   title: "IT Department",
   description: "Welcome to the IT Department. Explore our courses, research, and resources."
   // metadataBase: new URL("https://it-department-website.vercel.app"),
-  //   generator: 'v0.dev'
 }
 
 export default function RootLayout({
