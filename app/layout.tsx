@@ -10,11 +10,11 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "IT Department",
-  description: "Welcome to the IT Department. Explore our courses, research, and resources.",
-  metadataBase: new URL("https://pacet-infotech.vercel.app/"),
-  icons: {
-    // icon: "/favicon.ico",
-  },
+  description: "Welcome to the IT Department. Explore our courses, research, and resources."
+  // metadataBase: new URL("https://pacet-infotech.vercel.app/"),
+  // icons: {
+  //   icon: "/favicon.ico",
+  // },
 }
 
 export default function RootLayout({
