@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: "Welcome to the IT Department. Explore our courses, research, and resources.",
   metadataBase: new URL("https://pacet-infotech.vercel.app/"),
   icons: {
-    icon: "/favicon.ico",
+    // icon: "/favicon.ico",
   },
 }
 
