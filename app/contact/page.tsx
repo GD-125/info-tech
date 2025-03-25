@@ -102,21 +102,21 @@ export default function ContactPage() {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="w-6 h-6 mr-2 text-blue-500" />
-                <span>it@university.edu</span>
+                <span>pacetit@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="w-6 h-6 mr-2 text-blue-500" />
-                <span>(123) 456-7890</span>
+                <span>+91 99445 06992</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-6 h-6 mr-2 text-blue-500" />
-                <span>123 University Street, City, State 12345</span>
+                <span>P. A. College of Engineering and Technology (Autonomous), Pollachi - 642 002</span>
               </div>
             </div>
             <div className="mt-8">
               <h3 className="text-xl font-semibold mb-2">Office Hours</h3>
-              <p>Monday - Friday: 9:00 AM - 5:00 PM</p>
-              <p>Saturday - Sunday: Closed</p>
+              <p>Monday - Saturday: 9:00 AM - 5:00 PM</p>
+              <p>Sunday: Closed</p>
             </div>
             <motion.div
               className="mt-8"
