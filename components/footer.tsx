@@ -48,15 +48,15 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-300">
               <li className="flex items-center">
                 <MapPin className="w-5 h-5 mr-2 text-primary" />
-                123 University Street, City, State 12345
+                P. A. College of Engineering and Technology (Autonomous), Pollachi - 642 002
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 mr-2 text-primary" />
-                (123) 456-7890
+                +91 99445 06992
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 mr-2 text-primary" />
-                it@university.edu
+                pacetit@gmail.com
               </li>
             </ul>
           </div>
