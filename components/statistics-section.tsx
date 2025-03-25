@@ -5,9 +5,9 @@ import { useInView } from "react-intersection-observer"
 import { useState, useEffect } from "react"
 
 const stats = [
-  { label: "Faculty Members", value: 50 },
-  { label: "Students", value: 1000 },
-  { label: "Research Projects", value: 75 },
+  { label: "Faculty Members", value: 12 },
+  { label: "Students", value: 200 },
+  { label: "Research Projects", value: 40 },
   { label: "Industry Partners", value: 30 },
 ]
 
